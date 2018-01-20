@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Madis Palmet Unity Kodune T\xF6\xF6.unity"
+  isLoaded: 1
+  isActive: 1
